@@ -1,0 +1,21 @@
+.travel_maidiv{
+    border: 1px solidlightgrey;
+}
+.travel_maidiv img{
+    width: 100%;
+}
+.travel_maidiv h5,.travel_maindiv p{
+    margin: 20px;
+}
+.movie head{
+    font-size 20px; ;
+    padding: 6px 22px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+.movie_head i{
+    float:right ;
+}
+.acheivmein_text span{
+    color: orange;
+}
